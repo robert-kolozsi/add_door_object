@@ -1,0 +1,8 @@
+.backup/
+.swap/
+*.pyc
+__pycache__/
+blend-files-test/
+misc/
+trash/
+resources
